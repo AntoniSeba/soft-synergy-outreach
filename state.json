@@ -94,29 +94,29 @@
       "id": "T5-COMMENT",
       "cel": "T5",
       "typ": "komentarz",
-      "status": "oczekuje",
+      "status": "wyslane",
       "osoba": "Anette Olędzka",
       "firma": "mcdi.pl",
       "grupa": "E-commerce - oferty pracy",
       "post": "https://www.facebook.com/groups/praca.ecommerce/posts/2915014148855184/",
       "temat": "Rozwój sprzedaży online marek kosmetycznych",
       "tresc": "Cześć! Soft Synergy — robimy wdrożenia i automatyzacje e-commerce, w tym sprzedaż na platformach zagranicznych. Chętnie dopytam o szczegóły.",
-      "czas": null,
-      "wynik": null
+      "czas": "2026-09-14 17:10",
+      "wynik": "widoczny jako Antoni Seba (11 komentarzy w watku)"
     },
     {
       "id": "T5-DM",
       "cel": "T5",
       "typ": "dm",
-      "status": "oczekuje",
+      "status": "wyslane",
       "osoba": "Anette Olędzka",
       "firma": "mcdi.pl",
       "grupa": "E-commerce - oferty pracy",
       "post": "https://www.facebook.com/groups/praca.ecommerce/posts/2915014148855184/",
       "temat": "Rozwój sprzedaży online marek kosmetycznych",
       "tresc": "Cześć Anette! Piszę w sprawie rozwoju sprzedaży online marek mcdi.pl. Zanim zaproponuję cokolwiek: czy zależy Wam głównie na platformach zagranicznych, czy też na Waszym sklepie, i czy potrzebujecie wsparcia technicznego przy sklepie, czy wyłącznie sprzedażowego. Chętnie pogadam 10 minut. Antoni, Soft Synergy",
-      "czas": null,
-      "wynik": null
+      "czas": "2026-09-14 17:10",
+      "wynik": "potwierdzone w watku, godz. 17:10"
     }
   ],
   "dziennik": [
@@ -149,6 +149,16 @@
       "czas": "2026-09-14 17:08",
       "id": "T4-DM",
       "opis": "Ilona Świerczyńska / dm -> wyslane (potwierdzone w watku, godz. 17:08)"
+    },
+    {
+      "czas": "2026-09-14 17:10",
+      "id": "T5-COMMENT",
+      "opis": "Anette Olędzka / komentarz -> wyslane (widoczny jako Antoni Seba (11 komentarzy w watku))"
+    },
+    {
+      "czas": "2026-09-14 17:10",
+      "id": "T5-DM",
+      "opis": "Anette Olędzka / dm -> wyslane (potwierdzone w watku, godz. 17:10)"
     }
   ]
 }
