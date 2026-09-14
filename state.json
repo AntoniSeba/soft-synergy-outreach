@@ -52,15 +52,15 @@
       "id": "T3-COMMENT",
       "cel": "T3",
       "typ": "komentarz",
-      "status": "oczekuje",
+      "status": "wyslane",
       "osoba": "Anonimowy uczestnik",
       "firma": "—",
       "grupa": "SZUKAM PROGRAMISTY | STRONY WWW | APLIKACJE WEBOWE",
       "post": "https://www.facebook.com/groups/szukam.programisty.dev/posts/4905526566341842/",
       "temat": "Program do obsługi Allegro",
       "tresc": "Cześć! Soft Synergy — robimy integracje i automatyzacje e-commerce, m.in. z Allegro i systemami magazynowymi. Jeśli temat aktualny, chętnie dopytam, co dokładnie program ma robić i z czym się łączyć. Proszę o kontakt na priv.",
-      "czas": null,
-      "wynik": null
+      "czas": "2026-09-14 17:05",
+      "wynik": "widoczny jako Antoni Seba"
     },
     {
       "id": "T4-COMMENT",
@@ -134,6 +134,11 @@
       "czas": "2026-09-14 17:04",
       "id": "T2-COMMENT",
       "opis": "Anonimowy uczestnik / komentarz -> wyslane (widoczny jako Antoni Seba; autor podal maila marek.kostecki34@gmail.com)"
+    },
+    {
+      "czas": "2026-09-14 17:05",
+      "id": "T3-COMMENT",
+      "opis": "Anonimowy uczestnik / komentarz -> wyslane (widoczny jako Antoni Seba)"
     }
   ]
 }
