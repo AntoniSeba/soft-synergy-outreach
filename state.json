@@ -38,15 +38,15 @@
       "id": "T2-COMMENT",
       "cel": "T2",
       "typ": "komentarz",
-      "status": "oczekuje",
+      "status": "wyslane",
       "osoba": "Anonimowy uczestnik",
       "firma": "—",
       "grupa": "SZUKAM PROGRAMISTY | STRONY WWW | APLIKACJE WEBOWE",
       "post": "https://www.facebook.com/groups/szukam.programisty.dev/posts/4899178850309947/",
       "temat": "Aplikacja webowa dla gabinetu dentystycznego",
       "tresc": "Cześć! Prowadzę Soft Synergy — robimy aplikacje webowe dla firm. Jeśli szukasz jeszcze wykonawcy, chętnie dopytam o zakres: podejrzewam, że kluczowe są rezerwacje i panel dla personelu. Odezwij się na priv, to dopytam o szczegóły.",
-      "czas": null,
-      "wynik": null
+      "czas": "2026-09-14 17:04",
+      "wynik": "widoczny jako Antoni Seba; autor podal maila marek.kostecki34@gmail.com"
     },
     {
       "id": "T3-COMMENT",
@@ -129,6 +129,11 @@
       "czas": "2026-09-14 17:04",
       "id": "T1-DM",
       "opis": "Krzysztof Zowada / dm -> wyslane (potwierdzone w watku, godz. 17:03)"
+    },
+    {
+      "czas": "2026-09-14 17:04",
+      "id": "T2-COMMENT",
+      "opis": "Anonimowy uczestnik / komentarz -> wyslane (widoczny jako Antoni Seba; autor podal maila marek.kostecki34@gmail.com)"
     }
   ]
 }
