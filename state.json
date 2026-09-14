@@ -66,29 +66,29 @@
       "id": "T4-COMMENT",
       "cel": "T4",
       "typ": "komentarz",
-      "status": "oczekuje",
+      "status": "wyslane",
       "osoba": "Ilona Świerczyńska",
       "firma": "—",
       "grupa": "Strony Internetowe - Zlecenia",
       "post": "https://www.facebook.com/groups/539475343321459/posts/2114620925806885/",
       "temat": "Strona internetowa dla hodowli",
       "tresc": "Cześć! Prowadzę Soft Synergy — robimy strony firmowe. Jeśli szukasz jeszcze wykonawcy, chętnie dopytam o zakres i podrzucę wycenę.",
-      "czas": null,
-      "wynik": null
+      "czas": "2026-09-14 17:08",
+      "wynik": "widoczny jako Antoni Seba (77 komentarzy w watku)"
     },
     {
       "id": "T4-DM",
       "cel": "T4",
       "typ": "dm",
-      "status": "oczekuje",
+      "status": "wyslane",
       "osoba": "Ilona Świerczyńska",
       "firma": "—",
       "grupa": "Strony Internetowe - Zlecenia",
       "post": "https://www.facebook.com/groups/539475343321459/posts/2114620925806885/",
       "temat": "Strona internetowa dla hodowli",
       "tresc": "Cześć Ilona! Piszę w sprawie Twojego posta o stronie dla hodowli. Żeby wycenić konkretnie, muszę wiedzieć: ile podstron ma strona, czy ma być galeria zdjęć i opisy zwierząt, oraz czy potrzebujesz też treści, czy dostarczasz je sama. Możemy pogadać 10 minut? Antoni, Soft Synergy",
-      "czas": null,
-      "wynik": null
+      "czas": "2026-09-14 17:08",
+      "wynik": "potwierdzone w watku, godz. 17:08"
     },
     {
       "id": "T5-COMMENT",
@@ -139,6 +139,16 @@
       "czas": "2026-09-14 17:05",
       "id": "T3-COMMENT",
       "opis": "Anonimowy uczestnik / komentarz -> wyslane (widoczny jako Antoni Seba)"
+    },
+    {
+      "czas": "2026-09-14 17:08",
+      "id": "T4-COMMENT",
+      "opis": "Ilona Świerczyńska / komentarz -> wyslane (widoczny jako Antoni Seba (77 komentarzy w watku))"
+    },
+    {
+      "czas": "2026-09-14 17:08",
+      "id": "T4-DM",
+      "opis": "Ilona Świerczyńska / dm -> wyslane (potwierdzone w watku, godz. 17:08)"
     }
   ]
 }
