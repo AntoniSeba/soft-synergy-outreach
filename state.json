@@ -24,15 +24,15 @@
       "id": "T1-DM",
       "cel": "T1",
       "typ": "dm",
-      "status": "oczekuje",
+      "status": "wyslane",
       "osoba": "Krzysztof Zowada",
       "firma": "—",
       "grupa": "Tworzenie Stron WWW | WordPress / Elementor",
       "post": "https://www.facebook.com/groups/netgonet/posts/2479446075895856/",
       "temat": "Sklep internetowy WooCommerce / Elementor Pro",
       "tresc": "Cześć Krzysztof! Piszę w sprawie Twojego posta o wsparciu przy sklepie WooCommerce / Elementor Pro. Zanim cokolwiek zaproponuję, wolę dopytać: jaka branża i ile produktów, czy potrzebne integracje płatności i kurierów, i czy sklep ma już gotowy layout, czy robimy go od podstaw. Możemy się zdzwonić na 10 minut? Antoni, Soft Synergy",
-      "czas": null,
-      "wynik": null
+      "czas": "2026-09-14 17:04",
+      "wynik": "potwierdzone w watku, godz. 17:03"
     },
     {
       "id": "T2-COMMENT",
@@ -124,6 +124,11 @@
       "czas": "2026-09-14 17:02",
       "id": "T1-COMMENT",
       "opis": "Krzysztof Zowada / komentarz -> wyslane (widoczny w watku jako Antoni Seba, status Oczekujacy (moderacja grupy))"
+    },
+    {
+      "czas": "2026-09-14 17:04",
+      "id": "T1-DM",
+      "opis": "Krzysztof Zowada / dm -> wyslane (potwierdzone w watku, godz. 17:03)"
     }
   ]
 }
