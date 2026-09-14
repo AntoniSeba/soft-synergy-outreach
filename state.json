@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "projekt": "Soft Synergy — kontakt do zleceń z Facebooka",
+    "utworzono": "2026-09-14",
+    "zasada": "Jedna akcja = jeden unikalny klucz. Akcja ze statusem 'wyslane' nie zostanie nigdy powtórzona.",
+    "odbiorca": "grupy FB Antona (scrape 214 grup, okno 7 dni)"
+  },
+  "akcje": [
+    {
+      "id": "T1-COMMENT", "cel": "T1", "typ": "komentarz", "status": "oczekuje",
+      "osoba": "Krzysztof Zowada", "firma": "—", "grupa": "Tworzenie Stron WWW | WordPress / Elementor",
+      "post": "https://www.facebook.com/groups/netgonet/posts/2479446075895856/",
+      "temat": "Sklep internetowy WooCommerce / Elementor Pro",
+      "tresc": "Cześć! Prowadzę Soft Synergy — robimy sklepy na WooCommerce i Elementor Pro. Jeśli temat jest nadal otwarty, chętnie dopytam o zakres i podrzucę wycenę. Pisz na priv.",
+      "czas": null, "wynik": null
+    },
+    {
+      "id": "T1-DM", "cel": "T1", "typ": "dm", "status": "oczekuje",
+      "osoba": "Krzysztof Zowada", "firma": "—", "grupa": "Tworzenie Stron WWW | WordPress / Elementor",
+      "post": "https://www.facebook.com/groups/netgonet/posts/2479446075895856/",
+      "temat": "Sklep internetowy WooCommerce / Elementor Pro",
+      "tresc": "Cześć Krzysztof! Piszę w sprawie Twojego posta o wsparciu przy sklepie WooCommerce / Elementor Pro. Zanim cokolwiek zaproponuję, wolę dopytać: jaka branża i ile produktów, czy potrzebne integracje płatności i kurierów, i czy sklep ma już gotowy layout, czy robimy go od podstaw. Możemy się zdzwonić na 10 minut? Antoni, Soft Synergy",
+      "czas": null, "wynik": null
+    },
+    {
+      "id": "T2-COMMENT", "cel": "T2", "typ": "komentarz", "status": "oczekuje",
+      "osoba": "Anonimowy uczestnik", "firma": "—", "grupa": "SZUKAM PROGRAMISTY | STRONY WWW | APLIKACJE WEBOWE",
+      "post": "https://www.facebook.com/groups/szukam.programisty.dev/posts/4899178850309947/",
+      "temat": "Aplikacja webowa dla gabinetu dentystycznego",
+      "tresc": "Cześć! Prowadzę Soft Synergy — robimy aplikacje webowe dla firm. Jeśli szukasz jeszcze wykonawcy, chętnie dopytam o zakres: podejrzewam, że kluczowe są rezerwacje i panel dla personelu. Odezwij się na priv, to dopytam o szczegóły.",
+      "czas": null, "wynik": null
+    },
+    {
+      "id": "T3-COMMENT", "cel": "T3", "typ": "komentarz", "status": "oczekuje",
+      "osoba": "Anonimowy uczestnik", "firma": "—", "grupa": "SZUKAM PROGRAMISTY | STRONY WWW | APLIKACJE WEBOWE",
+      "post": "https://www.facebook.com/groups/szukam.programisty.dev/posts/4905526566341842/",
+      "temat": "Program do obsługi Allegro",
+      "tresc": "Cześć! Soft Synergy — robimy integracje i automatyzacje e-commerce, m.in. z Allegro i systemami magazynowymi. Jeśli temat aktualny, chętnie dopytam, co dokładnie program ma robić i z czym się łączyć. Proszę o kontakt na priv.",
+      "czas": null, "wynik": null
+    },
+    {
+      "id": "T4-COMMENT", "cel": "T4", "typ": "komentarz", "status": "oczekuje",
+      "osoba": "Ilona Świerczyńska", "firma": "—", "grupa": "Strony Internetowe - Zlecenia",
+      "post": "https://www.facebook.com/groups/539475343321459/posts/2114620925806885/",
+      "temat": "Strona internetowa dla hodowli",
+      "tresc": "Cześć! Prowadzę Soft Synergy — robimy strony firmowe. Jeśli szukasz jeszcze wykonawcy, chętnie dopytam o zakres i podrzucę wycenę.",
+      "czas": null, "wynik": null
+    },
+    {
+      "id": "T4-DM", "cel": "T4", "typ": "dm", "status": "oczekuje",
+      "osoba": "Ilona Świerczyńska", "firma": "—", "grupa": "Strony Internetowe - Zlecenia",
+      "post": "https://www.facebook.com/groups/539475343321459/posts/2114620925806885/",
+      "temat": "Strona internetowa dla hodowli",
+      "tresc": "Cześć Ilona! Piszę w sprawie Twojego posta o stronie dla hodowli. Żeby wycenić konkretnie, muszę wiedzieć: ile podstron ma strona, czy ma być galeria zdjęć i opisy zwierząt, oraz czy potrzebujesz też treści, czy dostarczasz je sama. Możemy pogadać 10 minut? Antoni, Soft Synergy",
+      "czas": null, "wynik": null
+    },
+    {
+      "id": "T5-COMMENT", "cel": "T5", "typ": "komentarz", "status": "oczekuje",
+      "osoba": "Anette Olędzka", "firma": "mcdi.pl", "grupa": "E-commerce - oferty pracy",
+      "post": "https://www.facebook.com/groups/praca.ecommerce/posts/2915014148855184/",
+      "temat": "Rozwój sprzedaży online marek kosmetycznych",
+      "tresc": "Cześć! Soft Synergy — robimy wdrożenia i automatyzacje e-commerce, w tym sprzedaż na platformach zagranicznych. Chętnie dopytam o szczegóły.",
+      "czas": null, "wynik": null
+    },
+    {
+      "id": "T5-DM", "cel": "T5", "typ": "dm", "status": "oczekuje",
+      "osoba": "Anette Olędzka", "firma": "mcdi.pl", "grupa": "E-commerce - oferty pracy",
+      "post": "https://www.facebook.com/groups/praca.ecommerce/posts/2915014148855184/",
+      "temat": "Rozwój sprzedaży online marek kosmetycznych",
+      "tresc": "Cześć Anette! Piszę w sprawie rozwoju sprzedaży online marek mcdi.pl. Zanim zaproponuję cokolwiek: czy zależy Wam głównie na platformach zagranicznych, czy też na Waszym sklepie, i czy potrzebujecie wsparcia technicznego przy sklepie, czy wyłącznie sprzedażowego. Chętnie pogadam 10 minut. Antoni, Soft Synergy",
+      "czas": null, "wynik": null
+    }
+  ],
+  "dziennik": []
+}

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pl"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Soft Synergy — kontakt do zleceń</title>
+<style>
+  :root{--bg:#0d0f14;--panel:#151822;--panel2:#1b1f2b;--line:#272c3a;--text:#e9ecf5;
+        --muted:#8d95ad;--brand:#3ea6ff;--ok:#22d3a6;--warn:#f5b544;--danger:#ff6b6b}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--text);font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;padding:26px 18px 70px}
+  .wrap{max-width:1000px;margin:0 auto}
+  h1{font-size:24px;letter-spacing:-.02em}
+  h2{font-size:17px;margin:34px 0 12px}
+  .muted{color:var(--muted)} .small{font-size:13px}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px;color:var(--muted)}
+  .kpi{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:20px 0 8px}
+  .k{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+  .k .l{font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:600}
+  .k .v{font-size:27px;font-weight:700;margin-top:5px}
+  .k.ok .v{color:var(--ok)} .k.warn .v{color:var(--warn)} .k.bad .v{color:var(--danger)}
+  .zasada{background:rgba(62,166,255,.08);border:1px solid rgba(62,166,255,.3);border-left:3px solid var(--brand);
+          border-radius:10px;padding:13px 16px;font-size:14px;margin:18px 0}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:14px}
+  .chead{display:flex;justify-content:space-between;gap:14px;align-items:flex-start}
+  .chead h3{font-size:17px}
+  .temat{color:var(--brand);font-size:14px;margin-top:5px}
+  .licznik{font-size:19px;font-weight:700;color:var(--muted);white-space:nowrap}
+  .post{display:inline-block;margin-top:9px;font-size:13px;color:var(--brand);text-decoration:none}
+  .post:hover{text-decoration:underline}
+  .akcje{margin-top:14px;display:grid;gap:10px}
+  .akcja{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+  .arow{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap}
+  .typ{font-size:13px;font-weight:600}
+  .badge{font-size:11.5px;font-weight:600;padding:3px 9px;border-radius:99px;border:1px solid;white-space:nowrap}
+  .tresc{font-size:13.5px;color:var(--muted);margin-top:8px;white-space:pre-wrap}
+  .wynik{font-size:13px;color:var(--ok);margin-top:6px}
+  .log{font-size:13.5px;padding:7px 0;border-bottom:1px solid var(--line)}
+  footer{margin-top:34px;color:var(--muted);font-size:13px}
+</style></head><body><div class="wrap">
+  <h1>Soft Synergy — kontakt do zleceń z Facebooka</h1>
+  <p class="muted small">Soft Synergy — kontakt do zleceń z Facebooka · stan na 14.09.2026 16:58</p>
+
+  <div class="kpi">
+    <div class="k"><div class="l">Akcje razem</div><div class="v">8</div></div>
+    <div class="k ok"><div class="l">Wysłane</div><div class="v">0</div></div>
+    <div class="k warn"><div class="l">Oczekuje</div><div class="v">8</div></div>
+    <div class="k bad"><div class="l">Błędy</div><div class="v">0</div></div>
+  </div>
+
+  <div class="zasada">
+    <b>Blokada duplikatów.</b> Każda akcja ma unikalny klucz i status. Akcja oznaczona jako
+    <b>wyslane</b> nie zostanie wysłana ponownie — wysyłka jest pomijana, nie powtarzana.
+    Źródłem prawdy jest <span class="mono">state.json</span>, ten panel to tylko widok.
+  </div>
+
+  <h2>Cele i akcje</h2>
+  
+    <div class="card">
+      <div class="chead">
+        <div>
+          <h3>Krzysztof Zowada</h3>
+          <p class="muted small">—Tworzenie Stron WWW | WordPress / Elementor</p>
+          <p class="temat">Sklep internetowy WooCommerce / Elementor Pro</p>
+        </div>
+        <div class="licznik">0/2</div>
+      </div>
+      <a class="post" href="https://www.facebook.com/groups/netgonet/posts/2479446075895856/" target="_blank" rel="noopener">zobacz post ↗</a>
+      <div class="akcje">
+        <div class="akcja">
+          <div class="arow">
+            <span class="typ">💬 komentarz</span>
+            <span class="badge" style="color:#8d95ad;border-color:#8d95ad;background:#1b1f2b">oczekuje</span>
+          </div>
+          <div class="tresc">Cześć! Prowadzę Soft Synergy — robimy sklepy na WooCommerce i Elementor Pro. Jeśli temat jest nadal otwarty, chętnie dopytam o zakres i podrzucę wycenę. Pisz na priv.</div>
+          
+          <div class="mono">T1-COMMENT</div>
+        </div>
+        <div class="akcja">
+          <div class="arow">
+            <span class="typ">✉️ dm</span>
+            <span class="badge" style="color:#8d95ad;border-color:#8d95ad;background:#1b1f2b">oczekuje</span>
+          </div>
+          <div class="tresc">Cześć Krzysztof! Piszę w sprawie Twojego posta o wsparciu przy sklepie WooCommerce / Elementor Pro. Zanim cokolwiek zaproponuję, wolę dopytać: jaka branża i ile produktów, czy potrzebne integracje płatności i kurierów, i czy sklep ma już gotowy layout, czy robimy go od podstaw. Możemy się zdzwonić na 10 minut? Antoni, Soft Synergy</div>
+          
+          <div class="mono">T1-DM</div>
+        </div></div></div>
+    <div class="card">
+      <div class="chead">
+        <div>
+          <h3>Anonimowy uczestnik</h3>
+          <p class="muted small">—SZUKAM PROGRAMISTY | STRONY WWW | APLIKACJE WEBOWE</p>
+          <p class="temat">Aplikacja webowa dla gabinetu dentystycznego</p>
+        </div>
+        <div class="licznik">0/1</div>
+      </div>
+      <a class="post" href="https://www.facebook.com/groups/szukam.programisty.dev/posts/4899178850309947/" target="_blank" rel="noopener">zobacz post ↗</a>
+      <div class="akcje">
+        <div class="akcja">
+          <div class="arow">
+            <span class="typ">💬 komentarz</span>
+            <span class="badge" style="color:#8d95ad;border-color:#8d95ad;background:#1b1f2b">oczekuje</span>
+          </div>
+          <div class="tresc">Cześć! Prowadzę Soft Synergy — robimy aplikacje webowe dla firm. Jeśli szukasz jeszcze wykonawcy, chętnie dopytam o zakres: podejrzewam, że kluczowe są rezerwacje i panel dla personelu. Odezwij się na priv, to dopytam o szczegóły.</div>
+          
+          <div class="mono">T2-COMMENT</div>
+        </div></div></div>
+    <div class="card">
+      <div class="chead">
+        <div>
+          <h3>Anonimowy uczestnik</h3>
+          <p class="muted small">—SZUKAM PROGRAMISTY | STRONY WWW | APLIKACJE WEBOWE</p>
+          <p class="temat">Program do obsługi Allegro</p>
+        </div>
+        <div class="licznik">0/1</div>
+      </div>
+      <a class="post" href="https://www.facebook.com/groups/szukam.programisty.dev/posts/4905526566341842/" target="_blank" rel="noopener">zobacz post ↗</a>
+      <div class="akcje">
+        <div class="akcja">
+          <div class="arow">
+            <span class="typ">💬 komentarz</span>
+            <span class="badge" style="color:#8d95ad;border-color:#8d95ad;background:#1b1f2b">oczekuje</span>
+          </div>
+          <div class="tresc">Cześć! Soft Synergy — robimy integracje i automatyzacje e-commerce, m.in. z Allegro i systemami magazynowymi. Jeśli temat aktualny, chętnie dopytam, co dokładnie program ma robić i z czym się łączyć. Proszę o kontakt na priv.</div>
+          
+          <div class="mono">T3-COMMENT</div>
+        </div></div></div>
+    <div class="card">
+      <div class="chead">
+        <div>
+          <h3>Ilona Świerczyńska</h3>
+          <p class="muted small">—Strony Internetowe - Zlecenia</p>
+          <p class="temat">Strona internetowa dla hodowli</p>
+        </div>
+        <div class="licznik">0/2</div>
+      </div>
+      <a class="post" href="https://www.facebook.com/groups/539475343321459/posts/2114620925806885/" target="_blank" rel="noopener">zobacz post ↗</a>
+      <div class="akcje">
+        <div class="akcja">
+          <div class="arow">
+            <span class="typ">💬 komentarz</span>
+            <span class="badge" style="color:#8d95ad;border-color:#8d95ad;background:#1b1f2b">oczekuje</span>
+          </div>
+          <div class="tresc">Cześć! Prowadzę Soft Synergy — robimy strony firmowe. Jeśli szukasz jeszcze wykonawcy, chętnie dopytam o zakres i podrzucę wycenę.</div>
+          
+          <div class="mono">T4-COMMENT</div>
+        </div>
+        <div class="akcja">
+          <div class="arow">
+            <span class="typ">✉️ dm</span>
+            <span class="badge" style="color:#8d95ad;border-color:#8d95ad;background:#1b1f2b">oczekuje</span>
+          </div>
+          <div class="tresc">Cześć Ilona! Piszę w sprawie Twojego posta o stronie dla hodowli. Żeby wycenić konkretnie, muszę wiedzieć: ile podstron ma strona, czy ma być galeria zdjęć i opisy zwierząt, oraz czy potrzebujesz też treści, czy dostarczasz je sama. Możemy pogadać 10 minut? Antoni, Soft Synergy</div>
+          
+          <div class="mono">T4-DM</div>
+        </div></div></div>
+    <div class="card">
+      <div class="chead">
+        <div>
+          <h3>Anette Olędzka</h3>
+          <p class="muted small">mcdi.pl · E-commerce - oferty pracy</p>
+          <p class="temat">Rozwój sprzedaży online marek kosmetycznych</p>
+        </div>
+        <div class="licznik">0/2</div>
+      </div>
+      <a class="post" href="https://www.facebook.com/groups/praca.ecommerce/posts/2915014148855184/" target="_blank" rel="noopener">zobacz post ↗</a>
+      <div class="akcje">
+        <div class="akcja">
+          <div class="arow">
+            <span class="typ">💬 komentarz</span>
+            <span class="badge" style="color:#8d95ad;border-color:#8d95ad;background:#1b1f2b">oczekuje</span>
+          </div>
+          <div class="tresc">Cześć! Soft Synergy — robimy wdrożenia i automatyzacje e-commerce, w tym sprzedaż na platformach zagranicznych. Chętnie dopytam o szczegóły.</div>
+          
+          <div class="mono">T5-COMMENT</div>
+        </div>
+        <div class="akcja">
+          <div class="arow">
+            <span class="typ">✉️ dm</span>
+            <span class="badge" style="color:#8d95ad;border-color:#8d95ad;background:#1b1f2b">oczekuje</span>
+          </div>
+          <div class="tresc">Cześć Anette! Piszę w sprawie rozwoju sprzedaży online marek mcdi.pl. Zanim zaproponuję cokolwiek: czy zależy Wam głównie na platformach zagranicznych, czy też na Waszym sklepie, i czy potrzebujecie wsparcia technicznego przy sklepie, czy wyłącznie sprzedażowego. Chętnie pogadam 10 minut. Antoni, Soft Synergy</div>
+          
+          <div class="mono">T5-DM</div>
+        </div></div></div>
+
+  <h2>Dziennik wysyłki</h2>
+  <div class="card"><span class='muted'>brak wpisów</span></div>
+
+  <footer>Wygenerowane automatycznie z state.json · 8 akcji, 0 wpisów w dzienniku</footer>
+</div></body></html>
